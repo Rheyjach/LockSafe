@@ -1,2 +1,2 @@
 # LockSafe
-Aplicacion de registro y creacion de contraseñas
+Aplicacion en Python de registro y creacion de contraseñas
